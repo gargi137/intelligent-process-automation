@@ -66,3 +66,34 @@ python-dotenv
 Ensure you have the necessary database (e.g., MySQL, SQLite) set up locally or remotely.
 
 Update the connection details in your code (use environment variables if needed).
+
+## Future Work
+
+##### 1.Enhanced Document Processing:
+Implement advanced machine learning techniques like Natural Language Processing (NLP) for more accurate document categorization and data extraction.
+
+##### 2.chatbot Enhancement: 
+Integrate NLP and deep learning models to enable the chatbot to understand and respond to a wider range of customer queries with more flexibility.
+
+#### 3.Scalability: 
+Optimize the database and automation processes to handle larger volumes of data and more complex workflows.
+
+#### 4.Integration with Cloud Services: 
+Consider integrating the solution with cloud-based tools for better scalability and accessibility.
+
+# Acknowledgments
+
+**Tesseract OCR**:
+For enabling efficient optical character recognition in the Data Entry Automation phase.
+
+**SQL Database**: 
+For managing and storing structured data in a scalable way.
+
+**OpenCV**:
+For image processing, improving the accuracy of text extraction.
+
+**Python Libraries**:
+For various utilities and functionalities used throughout the project, including numpy, re, and flask.
+
+Special thanks to the contributors and community behind these tools for making this project possible.
+
