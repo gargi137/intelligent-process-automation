@@ -23,7 +23,15 @@ Intelligent Process Automation applies cutting-edge AI and machine learning tech
 
 **Python**: The primary programming language for implementing the automation solutions.
 
-**Regular Expressions**: Used for data extraction and validation in the Data Entry Automation phase.
+**OpenCV (cv2)**: For image processing to enhance text extraction accuracy.
+
+**SQLite3**: For managing local databases in the project.
+
+**Regular Expressions (re)**: For structured data extraction and validation.
+
+**CSV**: For managing and manipulating data in CSV format.
+
+**scikit-learn (sklearn)**: For any machine learning models or techniques used.
 
 **OCR (Alternative to Tesseract)**: Applied for text extraction from documents in the Document Processing phase.
 
@@ -50,16 +58,24 @@ Create a requirements.txt file with all necessary libraries:
 pip install -r requirements.txt
 
 important libraries such as:
+Tesseract
 
-tesseract
+OpenCV (cv2)
 
-opencv-python
+NumPy
 
-numpy
+Regular Expressions (re)
 
-flask
+SQLite3
 
-python-dotenv
+CSV
+
+NLTK
+
+spaCy
+
+scikit-learn (sklearn)
+
 
 ### 4.Set up the database:
 
