@@ -88,7 +88,7 @@ Update the connection details in your code (use environment variables if needed)
 ##### 1.Enhanced Document Processing:
 Implement advanced machine learning techniques like Natural Language Processing (NLP) for more accurate document categorization and data extraction.
 
-##### 2.chatbot Enhancement: 
+##### 2.Chatbot Enhancement: 
 Integrate NLP and deep learning models to enable the chatbot to understand and respond to a wider range of customer queries with more flexibility.
 
 #### 3.Scalability: 
