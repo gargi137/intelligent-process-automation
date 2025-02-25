@@ -110,5 +110,13 @@ For image processing, improving the accuracy of text extraction.
 **Python Libraries**:
 For various utilities and functionalities used throughout the project, including numpy, re, and flask.
 
-Special thanks to the contributors and community behind these tools for making this project possible.
+Special thanks to the contributors and community behind these tools for making this project possible
+
+# Workflow Diagrams:
+
+## data_entry_automation_workflow diagram:
+
+![Data Entry Automation Workflow](data_entry_automation_workflow.png)
+
+##
 
