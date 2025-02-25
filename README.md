@@ -92,7 +92,9 @@ Update the connection details in your code (use environment variables if needed)
 ![Document Processing Automation Workflow](document_processing_automation_workflow.png)
 
 ## Customer Service Interactions Workflow Diagram:
+
 ![Customer Service Interactions Workflow](customer_service_interactions_workflow.png)
+
 
 ## Future Work
 
