@@ -82,6 +82,18 @@ Ensure you have the necessary database (e.g., MySQL, SQLite) set up locally or r
 
 Update the connection details in your code (use environment variables if needed).
 
+# Workflow Diagrams:
+
+## Data Entry Automation Workflow diagram:
+
+![Data Entry Automation Workflow](data_entry_automation_workflow.png)
+
+## Document Processing Automation Workflow Diagram:
+![Document Processing Automation Workflow](document_processing_automation_workflow.png)
+
+## Customer Service Interactions Workflow Diagram:
+![Customer Service Interactions Workflow](customer_service_interactions_workflow.png)
+
 ## Future Work
 
 ##### 1. Enhanced Document Processing:
@@ -111,15 +123,4 @@ For image processing, improving the accuracy of text extraction.
 For various utilities and functionalities used throughout the project, including numpy, re, and flask.
 
 Special thanks to the contributors and community behind these tools for making this project possible
-
-# Workflow Diagrams:
-
-## Data Entry Automation Workflow diagram:
-
-![Data Entry Automation Workflow](data_entry_automation_workflow.png)
-
-## Document Processing Automation Workflow Diagram:
-![Document Processing Automation Workflow](document_processing_automation_workflow.png)
-
-##
 
