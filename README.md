@@ -33,7 +33,7 @@ Intelligent Process Automation applies cutting-edge AI and machine learning tech
 
 **scikit-learn (sklearn)**: For any machine learning models or techniques used.
 
-**Chatbot Framework**: For implementing customer service automation and providing rule-based interactions.
+**Rule-Based Chatbot (Python & Regex)**: For implementing customer service automation and providing rule-based interactions.
 
 
 # Installation
