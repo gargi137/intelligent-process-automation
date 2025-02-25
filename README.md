@@ -9,11 +9,11 @@ This project addresses key challenges that enterprises face in automating their 
 
 Intelligent Process Automation applies cutting-edge AI and machine learning techniques to automate business processes. The following algorithms and tools have been implemented:
 
-**1.Data Entry Automation**: Utilizes Tesseract OCR for optical character recognition (OCR) to extract text from images. Regular expressions are employed for structured data extraction, and data is stored and managed in an SQL database to streamline data entry workflows.
+**1. Data Entry Automation**: Utilizes Tesseract OCR for optical character recognition (OCR) to extract text from images. Regular expressions are employed for structured data extraction, and data is stored and managed in an SQL database to streamline data entry workflows.
 
-**2.Document Processing Automation**: Applies OCR (alternative to Tesseract) to extract textual data from documents, followed by categorization and basic text analysis.
+**2. Document Processing Automation**: Applies OCR (alternative to Tesseract) to extract textual data from documents, followed by categorization and basic text analysis.
 
-**3.Customer Service Automation**: Implements a chatbot using a rule-based system to handle customer queries, automating responses based on predefined inputs.
+**3. Customer Service Automation**: Implements a chatbot using a rule-based system to handle customer queries, automating responses based on predefined inputs.
 
 # **Technologies Used**
 
@@ -32,8 +32,6 @@ Intelligent Process Automation applies cutting-edge AI and machine learning tech
 **CSV**: For managing and manipulating data in CSV format.
 
 **scikit-learn (sklearn)**: For any machine learning models or techniques used.
-
-**OCR (Alternative to Tesseract)**: Applied for text extraction from documents in the Document Processing phase.
 
 **Chatbot Framework**: For implementing customer service automation and providing rule-based interactions.
 
@@ -57,7 +55,8 @@ Create a requirements.txt file with all necessary libraries:
 
 pip install -r requirements.txt
 
-important libraries such as:
+such as:
+
 Tesseract
 
 OpenCV (cv2)
@@ -85,16 +84,16 @@ Update the connection details in your code (use environment variables if needed)
 
 ## Future Work
 
-##### 1.Enhanced Document Processing:
+##### 1. Enhanced Document Processing:
 Implement advanced machine learning techniques like Natural Language Processing (NLP) for more accurate document categorization and data extraction.
 
-##### 2.Chatbot Enhancement: 
+##### 2. Chatbot Enhancement: 
 Integrate NLP and deep learning models to enable the chatbot to understand and respond to a wider range of customer queries with more flexibility.
 
-#### 3.Scalability: 
+##### 3. Scalability: 
 Optimize the database and automation processes to handle larger volumes of data and more complex workflows.
 
-#### 4.Integration with Cloud Services: 
+##### 4. Integration with Cloud Services: 
 Consider integrating the solution with cloud-based tools for better scalability and accessibility.
 
 # Acknowledgments
