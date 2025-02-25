@@ -1,0 +1,35 @@
+# Byte-compiled / cached files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Database files
+*.sqlite3
+*.db
+
+# Tesseract OCR data files (if any)
+tessdata/
+*.traineddata
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp  # Vim swap files
+
+# Dependencies (if using pipenv or poetry)
+Pipfile
+Pipfile.lock
+poetry.lock
