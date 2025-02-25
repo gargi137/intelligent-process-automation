@@ -114,9 +114,12 @@ Special thanks to the contributors and community behind these tools for making t
 
 # Workflow Diagrams:
 
-## data_entry_automation_workflow diagram:
+## Data Entry Automation Workflow diagram:
 
 ![Data Entry Automation Workflow](data_entry_automation_workflow.png)
+
+## Document Processing Automation Workflow Diagram:
+![Document Processing Automation Workflow](document_processing_automation_workflow.png)
 
 ##
 
